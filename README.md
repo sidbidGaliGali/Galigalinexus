@@ -1,1 +1,11 @@
-# repo-template
+
+  # GaliGali Nexus
+
+  This is a code bundle for GaliGali Nexus. The original project is available at https://www.figma.com/design/1W40PdHfkPNXS66hkQzMvZ/GaliGali-Nexus.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
